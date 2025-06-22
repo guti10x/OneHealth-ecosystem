@@ -7,3 +7,6 @@
 [submodule "ONEHEALTH_intelligent"]
 	path = ONEHEALTH_intelligent
 	url = https://github.com/guti10x/ONEHEALTH_intelligent.git
+[submodule "OneHealth_app"]
+	path = OneHealth_app
+	url = https://github.com/guti10x/OneHealth_app.git
