@@ -1,0 +1,9 @@
+[submodule "Onehealth_dowload"]
+	path = Onehealth_dowload
+	url = https://github.com/guti10x/Onehealth_dowload.git
+[submodule "OneHealth_dashboard"]
+	path = OneHealth_dashboard
+	url = https://github.com/guti10x/OneHealth_dashboard.git
+[submodule "ONEHEALTH_intelligent"]
+	path = ONEHEALTH_intelligent
+	url = https://github.com/guti10x/ONEHEALTH_intelligent.git
